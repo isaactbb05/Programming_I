@@ -14,7 +14,7 @@ int main() {
         printf("The home team has won");
     }
     else if (home_team_goals<away_team_goals) {
-        printf("The home team has lost");
+        printf("The away team has lost");
     }
     else {
         printf("It is a draw");
